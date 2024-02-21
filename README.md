@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a9d8f&height=120&section=header"/>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2a9d8f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+William+Pascini;I'm+24+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -28,4 +28,4 @@
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </a>  </a> </a> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A9D8F=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a9d8f&height=120&section=footer"/>
